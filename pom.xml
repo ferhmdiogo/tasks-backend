@@ -69,7 +69,9 @@
 				<version>0.8.3</version>
 				<executions>
 					<execution>
-						<goal>install</goal>
+						<goals>
+							<goal>prepare-agent</goal>
+						</goals>
 					</execution>
 				</executions>
 				<configuration>
