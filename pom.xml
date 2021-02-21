@@ -70,7 +70,7 @@
 				<executions>
 					<execution>
 						<goals>
-							<goal>prepare-agent</goal>
+							<goal>install</goal>
 						</goals>
 					</execution>
 				</executions>
